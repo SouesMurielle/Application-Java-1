@@ -14,4 +14,4 @@ Dans cette application on peut voir :
 - Comment changer d'activité
 - Créer, placer et modifier les caractéristiques des différents éléments graphiques
 - Charger des données dans un RecyclerView
-- créer des classes d'objets JavaBean
+- Créer des classes d'objets JavaBean
